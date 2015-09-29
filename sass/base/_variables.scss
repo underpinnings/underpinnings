@@ -19,6 +19,12 @@ $font-size:             14px;
 // Colour variables
 // ---
 
+$neutral-30:            #e8e8e8; // pale-grey
+$neutral-40:            #bbb;    // bright-grey
+$neutral-50:            #888;    // grey
+$neutral-60:            #555;    // darker-grey
+$neutral-70:            #333;    // dark-grey/black
+
 $primary-color:         #ff3c78; // pink
 $dark-primary-color:    #d03363; 
 $light-primary-color:   #ff759f;
@@ -26,3 +32,9 @@ $light-primary-color:   #ff759f;
 $secondary-color:       #009cff; // blue
 $dark-secondary-color:  #0071b9;
 $light-secondary-color: #50bbff;
+
+$success-color:         #00c13b; // green
+$error-color:           #c10000; // red
+$accent-color:          #ff6000; // orange
+
+$link-color:            $primary-color;
